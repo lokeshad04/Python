@@ -12,3 +12,5 @@ for i in range(1,6):
             print(4)
         case 5:
             print(5)
+        case _:
+            print("N/A")
