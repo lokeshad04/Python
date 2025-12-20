@@ -21,6 +21,8 @@ def fibonacci(n):
     for i in range(n):
         print(fib(i),end=" ")
 
+fibonacci(10)
+
         
         
         
