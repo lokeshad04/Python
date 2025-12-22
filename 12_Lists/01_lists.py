@@ -6,3 +6,4 @@ print(marks[0])
 print(mixed)
 # print(mixed[4])  Error Index out of bound
 print(marks[2:4])
+print(marks[::2])
