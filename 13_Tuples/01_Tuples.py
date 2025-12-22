@@ -1,4 +1,8 @@
 #Tuples are ORDERED , IMMUTABLE
+# FASTER than LISTS (because tuples are immutable)
+# used as DICTIONARY KEYS(since they are hashable)
+# safe from unintended modifications 
+
 a = (3, 2, 22, 13)
 
 print(a)
